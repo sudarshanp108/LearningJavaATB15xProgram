@@ -5,5 +5,6 @@ public class Lab_043_Narrowing_LongTo_Short {
         long phone = 987654321l;
 //        short s = phone; // Narrowing - implicit.
         short s1 = (short) phone; // Narrowing - Explicit.
+        System.out.println(s1);
     }
 }

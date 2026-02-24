@@ -15,6 +15,6 @@ public class Lab070_Else_If_Ladder {
         } else {
             System.out.println("a == 20");
         }
-     //   Scanner.close();
+        scanner.close();
     }
 }

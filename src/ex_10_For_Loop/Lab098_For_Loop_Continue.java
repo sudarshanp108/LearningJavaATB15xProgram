@@ -8,7 +8,7 @@ public class Lab098_For_Loop_Continue {
         System.out.println("Enter the Number");
         int a = sc.nextInt();
         for (int j=0; j<a; j++) {
-            if (j == 5) {  // no 5 will scipped in output
+            if (j == 5) {  // no 5 will skip in output
                 continue;
             }
             System.out.println(j);

@@ -6,4 +6,7 @@ public class Animal {
     {
         System.out.println("sound");
     }
-}
+
+
+    }
+
